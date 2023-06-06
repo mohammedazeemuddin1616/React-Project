@@ -10,3 +10,4 @@ backgroundcolor:'lightred'
 
 };
 export default Footer;
+ 
