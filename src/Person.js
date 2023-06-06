@@ -1,3 +1,5 @@
+// props
+// interpolation
 export default function Person({name,age}){
     return<div>
    <h2>{name}</h2>
@@ -9,3 +11,15 @@ export default function Person({name,age}){
    }
     </div>;
 }
+
+// react 
+// conponent
+// modules
+// jsx
+// props
+// consume and pass props
+// interpolation
+// conditional rendering
+// rendering
+// Style
+// css framework
